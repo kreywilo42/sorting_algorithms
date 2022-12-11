@@ -1,2 +1,1 @@
-# sorting_algorithms
-grey
+ALX sortign algo project
